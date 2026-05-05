@@ -23,8 +23,6 @@ This project combines IoT motion detection with network automation to intelligen
 
 ## Project Structure
 
-## Project Structure
-
 ```bash
 WORK-EXPERIENCE-NETWORK-AUTOMATION/
 ├── data/
