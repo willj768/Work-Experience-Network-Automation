@@ -1,4 +1,4 @@
-# Work Experience Network Automation
+# Work Experience: Network Automation
 
 A motion-triggered power management system that automatically controls network device port power states to reduce energy consumption and carbon emissions.
 
