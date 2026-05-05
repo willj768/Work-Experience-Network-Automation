@@ -22,3 +22,29 @@ This project combines IoT motion detection with network automation to intelligen
 - **Data Persistence**: CSV-based logging for motion events and power metrics
 
 ## Project Structure
+
+## Project Structure
+
+```bash
+WORK-EXPERIENCE-NETWORK-AUTOMATION/
+├── data/
+│   ├── logs.csv              # Log output data
+│   └── power.csv             # Power usage / device metrics
+├── src/
+│   ├── app.py                # Main Flask application
+│   ├── cisco.py              # Cisco device automation logic
+│   ├── config.py             # Configuration settings
+│   ├── main.py               # Main execution script
+│   ├── motion.py             # Motion/device-related automation
+│   └── utils.py              # Helper functions
+├── static/
+│   ├── images/
+│   │   └── opticore.png      # Project/company logo
+│   └── styles.css            # Frontend styling
+├── templates/
+│   └── scripthtml            # HTML templates for web interface
+├── .gitignore                # Ignored files and folders
+├── example.env               # Example environment variables
+├── README.md                 # Project documentation
+└── requirements.txt          # Python dependencies
+```
