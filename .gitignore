@@ -128,7 +128,7 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-netmiko-env/
+netmiko-env
 .env
 .venv
 env/
